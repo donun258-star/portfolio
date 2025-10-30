@@ -20,4 +20,4 @@ HTML만을 사용하여 간단하고 가볍게 제작했으며, GitHub Pages를 
 ## 🚀 실행 및 배포 방법
 1. 깃허브에서 이 저장소를 클론합니다:
    ```bash
-   git clone https://github.com/사용자명/portfolio-kimdoyun.git
+   git clone https://github.com/donun258-star/portfolio.git
