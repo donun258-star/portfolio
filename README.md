@@ -1,60 +1,23 @@
 # portfolio
 
 ---
+# 🎓 김도윤의 개인 포트폴리오 웹사이트
 
-<!DOCTYPE html>
-<html lang="ko">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>김도윤 - 포트폴리오</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 0; background: #f9f9f9; color: #333; }
-    header { background: #004aad; color: white; text-align: center; padding: 2rem 1rem; }
-    section { max-width: 800px; margin: 2rem auto; background: white; padding: 2rem; border-radius: 12px; }
-    h2 { color: #004aad; border-bottom: 2px solid #004aad; padding-bottom: 0.3rem; }
-    p { line-height: 1.6; }
-    footer { text-align: center; padding: 1rem; color: #777; font-size: 0.9rem; }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>김도윤</h1>
-    <p>한신대학교 1학년 | 학업 중심 포트폴리오</p>
-  </header>
+## 🧭 프로젝트 개요
+한신대학교 1학년 김도윤의 학업 중심 자기소개 포트폴리오 웹사이트입니다.  
+HTML만을 사용하여 간단하고 가볍게 제작했으며, GitHub Pages를 통해 웹에 배포했습니다.
 
-  <section>
-    <h2>👋 자기소개</h2>
-    <p>안녕하세요. 저는 한신대학교에 재학 중인 김도윤입니다.<br>
-    웹 개발과 컴퓨터 관련 기술에 관심이 있으며, 기초부터 차근히 배워가고 있습니다.<br>
-    아직은 1학년이지만, 앞으로 다양한 프로젝트를 경험하며 실력을 키우는 것이 목표입니다.</p>
-  </section>
+## ⚙️ 사용 기술
+- HTML5  
+- 기본적인 CSS 스타일 (내장 `<style>` 사용)  
+- GitHub Pages (배포용)
 
-  <section>
-    <h2>🎓 학력</h2>
-    <ul>
-      <li>한신대학교 (재학 중, 1학년)</li>
-      <li>원곡고등학교 졸업</li>
-    </ul>
-  </section>
+## 💡 주요 기능
+- 자기소개, 학력, 관심 분야, 연락처 정보  
+- 반응형(모바일) 화면에 맞춘 간단한 구조  
+- 깔끔한 HTML 기반 포트폴리오 디자인
 
-  <section>
-    <h2>💻 관심 분야</h2>
-    <ul>
-      <li>웹 프론트엔드 개발</li>
-      <li>HTML / CSS / JavaScript 기초</li>
-      <li>인공지능(AI) 및 클라우드 기술</li>
-    </ul>
-  </section>
-
-  <section>
-    <h2>📬 연락처</h2>
-    <p>이메일: example@email.com</p>
-    <p>GitHub: <a href="https://github.com/사용자명" target="_blank">https://github.com/사용자명</a></p>
-  </section>
-
-  <footer>
-    © 2025 Kim Doyun. All rights reserved.
-  </footer>
-</body>
-</html>
+## 🚀 실행 및 배포 방법
+1. 깃허브에서 이 저장소를 클론합니다:
+   ```bash
+   git clone https://github.com/사용자명/portfolio-kimdoyun.git
